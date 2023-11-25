@@ -11,5 +11,5 @@
 
 - 😁 Contact Me : LinkedIn , Instagram
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/nimish1612?theme=light&font=Graduate&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/qwertyish?theme=light&font=Graduate&ext=contest)
 
